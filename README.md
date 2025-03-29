@@ -1,2 +1,2 @@
 # SpamEmailClassification
-mplemented TF-IDF vectorization for feature extraction and trained models such as Naïve Bayes, Logistic Regression, and Random Forest to achieve high accuracy
+Implemented TF-IDF vectorization for feature extraction and trained models such as Naïve Bayes, Logistic Regression, and Random Forest to achieve high accuracy
